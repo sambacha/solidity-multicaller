@@ -11,7 +11,6 @@
 	"license": "ISC",
 	"devDependencies": {
 		"prettier": "^2.2.1",
-		"prettier-plugin-solidity": "^1.0.0-beta.6",
-		"prettier-plugin-solidity-refactor": "^1.0.0-alpha.14"
+		"prettier-plugin-solidity": "^1.0.0-beta.6"
 	}
 }
